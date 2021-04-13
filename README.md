@@ -1,5 +1,5 @@
-# DanielNoveron.github.io
+# FloresFranciso52.github.io
 Control de IoT PWA
 
 Enlace de la pagina:
-https://danielnoveron.github.io/
+https://franciscofjfs.github.io/
