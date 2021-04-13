@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.contenido {
+  display: inline-block;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 80%;
+  background-color: #e8bdf3;
+  border-radius: 7px;
+}
+
+meter,
+input[type="range"],
+output {
+  display: block;
+}
+
+mi-footer {
+  display: block;
+  margin: 1rem 0;
+  font-size: small;
+}

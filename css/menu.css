@@ -1,0 +1,22 @@
+.menu > nav {
+  position: absolute;
+  bottom: 0%;
+  right: 40%;
+  width: max-content;
+  margin: 0 auto;
+  background-color: #9825c5;
+  border-radius: 12px;
+}
+.menu > nav > table {
+  margin: 0 auto;
+  color: #00ffea;
+}
+a {
+  text-decoration-line: none;
+  color: #000;
+  color: #ffffff;
+}
+mi-footer {
+  background-color: #9825c5;
+  color: rgb(255, 255, 255);
+}

@@ -1,0 +1,27 @@
+.header {
+  background-color: #9825c5;
+  width: 100%;
+  text-align: left;
+  color: #ffffff;
+  border-radius: 222px;
+}
+.header > span,
+h1 {
+  display: inline-block;
+  margin-left: 5%;
+}
+meter {
+  width: 40%;
+  margin: 0 auto;
+}
+#ctDispositivo {
+  font-family: sans-serif;
+  font-size: 200%;
+}
+.titleDevice {
+  font-size: 132%;
+}
+#icon2 {
+  font-size: 400%;
+  color: #f0e8e8;
+}
